@@ -1,0 +1,4 @@
+results/
+.idea/
+__pycache__/
+davis2017_eval/
